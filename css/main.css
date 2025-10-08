@@ -15,7 +15,7 @@
             font-size: 50px;
          }
 
-         h2{
+         h2 h3{
              font-family: "Cal Sans", sans-serif;
 
          }
@@ -29,4 +29,71 @@
             width: 300px;
             border-radius: 20%;
             float: right;
+        }
+
+        main {
+            overflow: hidden;
+        }
+
+        section{
+            overflow: hidden;
+        }
+        
+        #proyectos {
+            padding: 20px 30px;
+            border-top: solid 5px color #2a9fc9;
+            margin-top: 30px;
+            text-align: center;
+        }
+
+        .proyecto {
+            float: left;
+            width: 33%;
+            margin-top: 20px;
+        }
+
+        .proyecto img{
+            width: 90%;
+            border-radius: 15px;
+            margin-top: 10px;
+        }
+
+        .proyecto p{
+            text-align: justify;
+            padding: 10px 20px;
+            color: #110000;
+        }
+
+        .proyecto h3{
+            color: #9710e0;
+            font-weight: lighter;
+        }
+        #habilidades{
+            overflow: hidden;
+            margin-top: 20px;
+            padding: 20px;
+            border-top: solid 5px #2a9fc9;
+            margin-bottom: 30px;
+        }
+
+        progress{
+            width: 100%;
+            height: 25px;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+
+        .lista-tecnologias{
+            list-style: none;
+            display: grid;
+            margin-left: 0;
+            gap:15px
+        }
+
+        .lista-tecnologias li{
+            background-color: #e6aed5;
+            color: #fff;
+            padding: 12px 20px;
+            border-radius: 25px;
+            text-align: center;
         }
