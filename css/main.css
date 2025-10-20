@@ -33,7 +33,7 @@
       }
 
       .bi{
-        color: #38085b;
+        color: #6c4a84;
       }
       
       #menu-principal {
@@ -48,7 +48,7 @@
 
       #menu-principal a{
         text-decoration: none;
-        color: #9710e0;
+        color: #570783;
         font-size: 25px;
         font-weight: bolder;
         padding: 8px;
@@ -150,13 +150,22 @@
       .campos label{
         padding-right: 20px;
       }
-      .campos input{
+      .campos input, select{
         padding: 10px;
         border: solid 2px #f347ce;
         width: 50%;
         font-size: 20px;
         border-radius: 10px;
       }
+      .campos button {
+        background-color: #970a6d;
+        color: #eef1c4;
+        border: none;
+        font-size: 18px;
+        padding: 30px 20px;
+        border-radius: 10px;
+      }
+
       footer{
         overflow: hidden;
         padding: 40px 0;
