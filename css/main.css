@@ -10,10 +10,10 @@
       }
 
       header {
-        background: #ec8cda;
+        background: #e88bed;
         text-align: center;
         margin-top: 30px;
-        border: solid 20px #e150c9;
+        border: solid 20px #cc3ace;
         padding: 50px;
       }
 
@@ -104,7 +104,7 @@
 
       #proyectos {
         padding: 30px 40px;
-        border-top: solid 5px color #803973;
+        border-top: solid 5px color #c415a4;
         margin-top: 30px;
         text-align: center;
       }
@@ -143,7 +143,7 @@
         overflow: hidden;
         margin-top: 20px;
         padding: 20px;
-        border-top: solid 5px #cb4e93;
+        border-top: solid 5px #cc3ace;
         margin-bottom: 30px;
       }
 
@@ -202,14 +202,14 @@
       .campos input,
       select {
         padding: 10px;
-        border: solid 2px #f347ce;
+        border: solid 2px #cc3ace;
         width: 50%;
         font-size: 20px;
         border-radius: 10px;
       }
 
       .campos button {
-        background-color: #e271c0;
+        background-color: #cc3ace;
         color: #eef1c4;
         border: none;
         font-size: 20px;
@@ -220,7 +220,7 @@
       footer {
         overflow: hidden;
         padding: 40px 0;
-        background-color: #ec8cda;
+        background-color: #e88bed;
         text-align: center;
-        border-top: solid 5px #c92a81;
+        border-top: solid 5px #cc3ace;
       }
